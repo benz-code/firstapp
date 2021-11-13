@@ -1,0 +1,21 @@
+h1>BIENVENIDOS A MIS DATOS PERSONALES</h1>
+<div class="alert alert-danger" role="alert"></div>
+
+
+<p class="font-italic">Mi Nombre es:</p>
+  <p style="color:#7a00c0";>Eliezer Benjamin Diaz Segovia</p>
+
+<p class="font-italic">Mi Edad es:</p>
+  <p style="color:#800080";>18 Años</p>
+
+<p class="font-italic">Mi Genero es:</p>
+  <p style="color:#800080";>Masculino</p>
+
+<p class="font-italic">Mi correo:</p>
+  <p style="color:#800000";>eliezerd750@gmail.com</p>
+
+<p class="font-italic">Direccion:</p>
+  <p style="color:#800080";>San Miguel, San Miguel</p>
+
+<p class="font-italic">Telefono::</p>
+  <p style="color:#800080";>7544-7557</p>
